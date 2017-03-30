@@ -28,7 +28,7 @@ public class MCategoriaBean {
 		System.out.println("nome: " + c.getNome() + " " + c.getDesc());
 	}
 	
-	public void chacachaca(){
+	public void chacachsaca21(){
 	}
 	
 }
