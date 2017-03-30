@@ -24,7 +24,7 @@ public class MCategoriaBean {
 
 
 	public void gravarCategoria(Categoria c) {
-		//CategoriaDAO.adicionarCategoria(c);
+		//CatssssegoriaDAO.adicionarCategoria(c);
 		System.out.println("nome: " + c.getNome() + " " + c.getDesc());
 	}
 	
